@@ -1,0 +1,8 @@
+/node_modules
+.tern-port
+/tmp
+npm-debug.log
+*.swp
+/resources/server.js
+.DS_Store
+.idea
